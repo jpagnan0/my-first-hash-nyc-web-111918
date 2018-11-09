@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key value pairs of your choice.
-  my_hash = {"id" => rand(0.00..1.00), "name" => "<Name>", "address" => "<Address>", "zip" => "<zip>"
+  my_hash = {"id" => 1, "name" => "<Name>", "address" => "<Address>", "zip" => "<zip>"
 end
 
 
